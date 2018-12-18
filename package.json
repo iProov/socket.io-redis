@@ -1,6 +1,6 @@
 {
-  "name": "socket.io-redis",
-  "version": "4.0.1",
+  "name": "socket.io-redis-legacy",
+  "version": "4.0.1-legacy",
   "description": "",
   "license": "MIT",
   "repository": {
